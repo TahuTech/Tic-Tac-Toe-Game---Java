@@ -22,3 +22,7 @@ Condition :
 - Draw Game
 
 ![image](https://user-images.githubusercontent.com/66807281/109412132-d813b880-79d8-11eb-982c-cfc9f19f2076.png)
+
+*note
+- X with blue color, O red color, win game the move line will be marked yellow color.
+
